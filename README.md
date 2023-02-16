@@ -22,6 +22,8 @@ Chronic kidney disease and renal failure are both difficult conditions to cure, 
 
 # Results and Discussion
 ![rr](https://user-images.githubusercontent.com/111365771/219392639-dfdb9d1e-8d55-4fee-a86e-282d674b5384.png)
+
+
 After pre-processing and analyzing the obtained dataset, we found that GNB model outperformed all other models with the highest training accuracy of 96.96%. On the other hand Decision tree, Linear Discriminant Analysis,KNN algorithms,ADAboost and LR with an accuracy of 96.6%,96.21%,63.63%,96.21 and 89.39%.
 
 
