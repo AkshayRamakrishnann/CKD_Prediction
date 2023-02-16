@@ -9,11 +9,17 @@ Chronic kidney disease and renal failure are both difficult conditions to cure, 
 # Method for building an efficient prediction model
 
 -> Importing all necessary libraries
+
 -> Explore the Data
+
 -> Data pre-processing
+
 -> Test-Train Models
+
 -> Training models with ONEAPI for accurate results
+
 -> Accuracy comparison
 
 # Results and Discussion
+![rr](https://user-images.githubusercontent.com/111365771/219392639-dfdb9d1e-8d55-4fee-a86e-282d674b5384.png)
 
