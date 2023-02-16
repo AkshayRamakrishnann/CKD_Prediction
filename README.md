@@ -16,6 +16,10 @@ Chronic kidney disease and renal failure are both difficult conditions to cure, 
 
 -> Test-Train Models
 
+
+![download](https://user-images.githubusercontent.com/111365771/219396018-2111c2b7-eba0-4691-9dfb-a6fea7fdb9b8.png)
+
+
 -> Training models with ONEAPI for accurate results
 
 -> Accuracy comparison
